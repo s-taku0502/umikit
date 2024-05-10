@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @umikit
-- 👀 I’m interested in ...making smartphone' apprications(OS) , website apprications and websites
+- 👋 Hi, I’m @umikit .
+- 👀 I’m interested in ...making smartphone' apprications(OS) , website apprications and websites.
 - 🌱 I’m currently learning some...
 - 💞️ I’m looking to collaborate on I'm not defined it...
 - 📫 How to reach me: I haven't defined the way.
